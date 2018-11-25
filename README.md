@@ -1,3 +1,3 @@
 # comp_vision_tests
 
-here will be CV tests progets 
+here will be CV tests projects 
